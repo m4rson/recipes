@@ -1,0 +1,1 @@
+tylko dla zarejestrowanych
