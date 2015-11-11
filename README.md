@@ -1,6 +1,6 @@
 ## Recipes
 
-This is a simple project for uploading kitchen Recipes
+This is a simple project for uploading food Recipes
 ## Features
 
 As an admin you can upload recipes and pictures
